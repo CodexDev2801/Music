@@ -1,0 +1,24 @@
+{
+  "name": "botcrackster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "lyrics-finder": "^21.3.3",
+    "megadb": "^3.4.0",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.5",
+    "string-progressbar": "^1.0.1",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.1"
+  }
+}
